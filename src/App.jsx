@@ -30,7 +30,7 @@ const Card = () => {
                         className="p-2 w-full rounded-md border border-gray-300 focus:ring-2 focus:ring-blue-500"
                     />
                     <button
-                        className="bg-blue-600 text-white p-2 rounded-md hover:bg-blue-700 transition"
+                        className="bg-blue-700 text-white p-2 rounded-md hover:bg-blue-700 transition"
                         onClick={getWeather}
                     >
                         Search
